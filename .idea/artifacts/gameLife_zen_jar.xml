@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="gameLife-zen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gameLife_zen_jar</output-path>
+    <root id="archive" name="gameLife-zen.jar">
+      <element id="module-output" name="gameLife-zen" />
+    </root>
+  </artifact>
+</component>
